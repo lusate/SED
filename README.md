@@ -4,6 +4,7 @@ Keras-Yolov3를 사용하여 건설현장에서 발생하는 사고를 예방하
 **Technology** : Python, Keras, TensorFlow, PyQt, Jupyter
 
 ![image](https://github.com/lusate/SED/assets/95400441/46a1849b-bae9-49c0-824c-76e8458cdc90)
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/b5cdfa82-3d7e-4df2-90e1-c2d471baf204">
 
 
 🔔 **<프로젝트 담당 업무>**
